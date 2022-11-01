@@ -16,15 +16,15 @@ The templates come in two authentication flavors and are implemented in two diff
 
 The base [Webnative authentication scheme](https://guide.fission.codes/developers/webnative/auth) uses private keys stored using the browser's [WebCrypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API).
 
-- [webnative-app-template](https://github.com/webnative-examples/webnative-app-template) - A Webnative App Template written in Svelte + TypeScript.
-- [webnative-app-template-react](https://github.com/webnative-examples/webnative-app-template-react) - A Webnative App Template written in React + TypeScript.
+- [`webnative-app-template`](https://github.com/webnative-examples/webnative-app-template) - A Webnative App Template written in Svelte + TypeScript.
+- [`webnative-app-template-react`](https://github.com/webnative-examples/webnative-app-template-react) - A Webnative App Template written in React + TypeScript.
 
 **WalletAuth**
 
 WalletAuth is for building apps where the user will log in with MetaMask or another in-browser crypto wallet.
 
-- [walletauth](https://github.com/webnative-examples/walletauth) - A WalletAuth template, written in Svelte + TypeScript.
-- [walletauth-react](https://github.com/webnative-examples/walletauth-react) - A WalletAuth template, written in React + TypeScript.
+- [`walletauth`](https://github.com/webnative-examples/walletauth) - A WalletAuth template, written in Svelte + TypeScript.
+- [`walletauth-react`](https://github.com/webnative-examples/walletauth-react) - A WalletAuth template, written in React + TypeScript.
 
 ### Create Webnative App
 
