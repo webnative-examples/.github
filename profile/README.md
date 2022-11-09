@@ -29,3 +29,11 @@ WalletAuth is for building apps where the user will log in with MetaMask or anot
 [`create-webnative-app`](https://github.com/webnative-examples/create-webnative-app) is a CLI generator that allows you to spin either React or SvelteKit flavours of Fission's Webnative App Template and Webnative WalletAuth repos.
 
 You can find other examples of Webnative applications in [the Fission organization](https://github.com/fission-codes).
+
+## React TodoMVC
+
+The classic [TodoMVC](https://todomvc.com/) app implemented with Webnative. This example demonstrates authorization through the [Fission Auth Lobby](https://auth.fission.codes/) which allows users to share a filesystem across apps.
+
+## Stored Wasm example
+
+This app demonstrates a simple approach to storing Wasm modules and computations in a user's filesystem. Computation and binaries performing computation can be available across a user's devices! This example also authorizes through the [Fission Auth Lobby](https://auth.fission.codes/).
