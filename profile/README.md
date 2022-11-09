@@ -4,9 +4,7 @@ Webnative is [Fission](https://fission.codes)'s true local-first, edge computing
 
 In this organization, you'll find templates for quickly getting started with Webnative and reference examples of apps built using Webnative.
 
-## Key Repositiories
-
-### Webnative App Template
+## Webnative App Templates: Build a new Webnative app
 
 The Webnative App Template repositories are clone-and-go templates for building a web application using Webnative, fast. The templates are "batteries included", and include user accounts, authorization, encrypted file storage, and key management via device linking.
 
@@ -26,7 +24,7 @@ WalletAuth is for building apps where the user will log in with MetaMask or anot
 - [`walletauth`](https://github.com/webnative-examples/walletauth) - A WalletAuth template, written in Svelte + TypeScript.
 - [`walletauth-react`](https://github.com/webnative-examples/walletauth-react) - A WalletAuth template, written in React + TypeScript.
 
-### Create Webnative App
+## Create Webnative App: Generate an app from the CLI
 
 [`create-webnative-app`](https://github.com/webnative-examples/create-webnative-app) is a CLI generator that allows you to spin either React or SvelteKit flavours of Fission's Webnative App Template and Webnative WalletAuth repos.
 
