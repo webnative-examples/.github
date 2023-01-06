@@ -12,7 +12,7 @@ The templates come in two authentication flavors and are implemented in two diff
 
 **WebCrypto-based Auth**
 
-The base [Webnative authentication scheme](https://guide.fission.codes/developers/webnative/auth) uses private keys stored using the browser's [WebCrypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API).
+The base [Webnative authentication scheme](https://guide.fission.codes/developers/webnative/authentication-strategies) uses private keys stored using the browser's [WebCrypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API).
 
 - [`webnative-app-template`](https://github.com/webnative-examples/webnative-app-template) - A Webnative App Template written in Svelte + TypeScript.
 - [`webnative-app-template-react`](https://github.com/webnative-examples/webnative-app-template-react) - A Webnative App Template written in React + TypeScript.
